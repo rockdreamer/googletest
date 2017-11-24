@@ -1,8 +1,8 @@
 
 # Google Test #
 
-[![Build Status](https://travis-ci.org/google/googletest.svg?branch=master)](https://travis-ci.org/google/googletest)
-[![Build status](https://ci.appveyor.com/api/projects/status/4o38plt0xbo1ubc8/branch/master?svg=true)](https://ci.appveyor.com/project/GoogleTestAppVeyor/googletest/branch/master)
+[![Build Status](https://travis-ci.org/rockdreamer/googletest.svg?branch=master)](https://travis-ci.org/rockdreamer/googletest)
+[![Build status](https://ci.appveyor.com/api/projects/status/fy3wx8yg7j7vv1a6/branch/master?svg=true)](https://ci.appveyor.com/project/rockdreamer/googletest/branch/master)
 
 Welcome to **Google Test**, Google's C++ test framework!
 
